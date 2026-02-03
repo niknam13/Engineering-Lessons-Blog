@@ -3,7 +3,7 @@
 # Welcome to my blog!
 ---
 The following is a link to my 5Q Method article
-[5Q Method](._posts/2026-01-31-5Q-Method.html)
+[5Q Method](./Blogs.html)
 
 <p> As an engineer, there's nothing I love more than learning new lessons and documentation. I created this blog as an opportunity to collect and record the lessons I have learned in my work place and personal life. These blogs will be mostly geared towards all things engineering however I may sprinkle in other things that inspire me. </p>
 <p> A little bit about my work experience, I have a bachelors in Mechanical Engineering and a Masters in Industrial Engineering. I currently work as a manufacturing engineer in wire manufacturing and before that worked as a process improvement engineer in a hospital. </p>
