@@ -1,7 +1,3 @@
-layout: page
-title: "Blogs"
-permalink: /Blogs/
-
 # "5Q Method"
 ### 2026-01-31
 
