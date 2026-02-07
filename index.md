@@ -1,9 +1,7 @@
 ---
 # Nikita's Engineering Lessons
-# Welcome to my blog!
+# Scroll down for my articles!
 ---
-The following are links to my articles
-* [5Q Method - A communication tool](./Blogs.html)
 
 ### About me:
 <p> As an engineer, there's nothing I love more than learning new lessons and documentation. I created this blog as an opportunity to collect and record the lessons I have learned in my work place and personal life. These blogs will be mostly geared towards all things engineering however I may sprinkle in other things that inspire me. </p>
